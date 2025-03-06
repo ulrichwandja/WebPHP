@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Formulaire PHP</title>
+    <title>Formulaire d'essai</title>
 </head>
 <body>
     <form action="traitement.php" method="post">
