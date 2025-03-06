@@ -5,7 +5,7 @@
 </head>
 <body>
     <form action="traitement.php" method="post">
-        <label for="nom">Votre nom :</label>
+        <label for="nom">Votnom: jordan</label>
         <input type="text" id="nom" name="nom">
         <button type="submit">Envoyer</button>
     </form>
